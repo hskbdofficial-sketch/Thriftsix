@@ -1,0 +1,6 @@
+{
+  "name": "THRIFTSIX",
+  "description": "THRIFTSIX - Smart Inventory Management (Developer: Nasif Himadri). A secure, offline-first production-ready smart inventory system with QR barcode tracking, order invoicing, and P&L analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,29 @@
+{
+"project_info": {
+"project_number": "307585490129",
+"project_id": "thrift-hive-f0997",
+"storage_bucket": "thrift-hive-f0997.firebasestorage.app"
+},
+"client": [
+{
+"client_info": {
+"mobilesdk_app_id": "1:307585490129:android:e50bfa0e2bb94c3830b9f0",
+"android_client_info": {
+"package_name": "com.thriftsix.inventory"
+}
+},
+"oauth_client": [],
+"api_key": [
+{
+"current_key": "AIzaSyB0NGR5r8PYV0ckaieSC4OOmaouoQMcVlQ"
+}
+],
+"services": {
+"appinvite_service": {
+"other_platform_oauth_client": []
+}
+}
+}
+],
+"configuration_version": "1"
+}
